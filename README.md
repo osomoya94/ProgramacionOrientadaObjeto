@@ -1,6 +1,6 @@
 # Programacion Orientada a Objetos - POO I y POO II
 
-Este repositorio reune mis trabajos practicos de Programacion Orientada a Objetos de la tecnicatura, organizados por unidad para mostrar mi proceso de aprendizaje real (nivel junior en evolucion).
+Este repositorio reune mis trabajos practicos de Programacion Orientada a Objetos de la tecnicatura, organizados por unidad para mostrar mi proceso de aprendizaje real .
 
 ---
 
